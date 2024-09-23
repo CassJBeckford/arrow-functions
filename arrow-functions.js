@@ -7,7 +7,7 @@
 function addTwoNumbers(a, b) {
     return a + b;
 }   
-let sum = addTwoNumbers(3, 5);
+// let sum = addTwoNumbers(3, 5);
 console.log(sum); //8
 
 // Arrow Function With Parameters
