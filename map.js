@@ -60,3 +60,29 @@ const studentsWithIds = students.map(student => {
 });
 
 console.log(studentsWithIds);
+
+/**
+ * [
+  * {
+  *  id: 1,
+  *   name: 'Mark',
+  *   profession: 'Developer',
+  *   skill: 'JavaScript',
+  *   age: 20
+  * },
+  * {
+  *   id: 2,
+  *   name: 'Ariel',
+  *   profession: 'Developer',
+  *   skill: 'HTML',
+  *   age: 25
+  * },
+  * {
+  *   id: 3,
+  *   name: 'Jason',
+  *   profession: 'Designer',
+  *   skill: 'CSS',
+  *   age: 25
+  * }
+ * ]
+ */
